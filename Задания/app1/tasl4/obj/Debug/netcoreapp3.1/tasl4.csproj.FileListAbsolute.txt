@@ -1,0 +1,14 @@
+D:\колледж\КПиЯП-практика\app1\tasl4\bin\Debug\netcoreapp3.1\tasl4.exe
+D:\колледж\КПиЯП-практика\app1\tasl4\bin\Debug\netcoreapp3.1\tasl4.deps.json
+D:\колледж\КПиЯП-практика\app1\tasl4\bin\Debug\netcoreapp3.1\tasl4.runtimeconfig.json
+D:\колледж\КПиЯП-практика\app1\tasl4\bin\Debug\netcoreapp3.1\tasl4.runtimeconfig.dev.json
+D:\колледж\КПиЯП-практика\app1\tasl4\bin\Debug\netcoreapp3.1\tasl4.dll
+D:\колледж\КПиЯП-практика\app1\tasl4\bin\Debug\netcoreapp3.1\tasl4.pdb
+D:\колледж\КПиЯП-практика\app1\tasl4\obj\Debug\netcoreapp3.1\tasl4.csproj.AssemblyReference.cache
+D:\колледж\КПиЯП-практика\app1\tasl4\obj\Debug\netcoreapp3.1\tasl4.GeneratedMSBuildEditorConfig.editorconfig
+D:\колледж\КПиЯП-практика\app1\tasl4\obj\Debug\netcoreapp3.1\tasl4.AssemblyInfoInputs.cache
+D:\колледж\КПиЯП-практика\app1\tasl4\obj\Debug\netcoreapp3.1\tasl4.AssemblyInfo.cs
+D:\колледж\КПиЯП-практика\app1\tasl4\obj\Debug\netcoreapp3.1\tasl4.csproj.CoreCompileInputs.cache
+D:\колледж\КПиЯП-практика\app1\tasl4\obj\Debug\netcoreapp3.1\tasl4.dll
+D:\колледж\КПиЯП-практика\app1\tasl4\obj\Debug\netcoreapp3.1\tasl4.pdb
+D:\колледж\КПиЯП-практика\app1\tasl4\obj\Debug\netcoreapp3.1\tasl4.genruntimeconfig.cache

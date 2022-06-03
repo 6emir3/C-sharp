@@ -1,0 +1,5 @@
+D:\колледж\КПиЯП-практика\Задания\task3\task1(2)\obj\Debug\netcoreapp3.1\task1(2,3).csproj.AssemblyReference.cache
+D:\колледж\КПиЯП-практика\Задания\task3\task1(2)\obj\Debug\netcoreapp3.1\task1(2,3).GeneratedMSBuildEditorConfig.editorconfig
+D:\колледж\КПиЯП-практика\Задания\task3\task1(2)\obj\Debug\netcoreapp3.1\task1(2,3).AssemblyInfoInputs.cache
+D:\колледж\КПиЯП-практика\Задания\task3\task1(2)\obj\Debug\netcoreapp3.1\task1(2,3).AssemblyInfo.cs
+D:\колледж\КПиЯП-практика\Задания\task3\task1(2)\obj\Debug\netcoreapp3.1\task1(2,3).csproj.CoreCompileInputs.cache
