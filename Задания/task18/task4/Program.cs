@@ -1,12 +1,4 @@
-﻿/*Решить задачу, используя класс HashTable: реализовать простейший каталог музыкальных компакт-дисков, который позволяет:
-1.      Добавлять и удалять диски. -
-2.      Добавлять и удалять песни. -
-3.      Просматривать содержимое целого каталога и каждого диска в отдельности. +
-4.      Осуществлять поиск всех записей заданного исполнителя по всему каталогу.*/
-
-
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,7 +12,6 @@ namespace _6._4
     {
         static void PrintAllCatalog(Hashtable ht)
         {
-            //Console.WriteLine(line);
             ICollection key = ht.Keys;
             foreach (string i in key)
             {
@@ -30,12 +21,9 @@ namespace _6._4
 
         static void Main(string[] args)
         {
-            //StreamWriter sw = new StreamWriter("catalog.txt", true, Encoding.GetEncoding(1251));
+ 
             Hashtable disc = new Hashtable();
             Hashtable songs = new Hashtable();
-
-            /* Console.WriteLine("Disc count:" + disc.Count);
-             Console.WriteLine("Songs count:" + songs.Count);*/
 
             disc.Add("01", "Dance");
             disc.Add("02", "Rock");
@@ -59,7 +47,7 @@ namespace _6._4
             string del = "DELETED";
             int result;
 
-            foreach (var i in keyD)
+            foreach (string i in keyD)
             {
                 result = string.Compare(disc[i].ToString(), del);
                 if (result == 0)
@@ -79,33 +67,6 @@ namespace _6._4
                 }
                 Console.WriteLine("Диск c именем " + newDiscName + " успешно добавлен, его позиция [" + i + "]");
             }
-
-            /* 
-             string newSongPos = "0";
-             PrintAllCatalog(disc);
-             Console.WriteLine("Выберите номер диска в который хотите добавить аудиозапись");
-             string line = Console.ReadLine();
-             if (disc.Contains(line))
-             {
-                 ICollection keyS = songs.Keys;
-                 int PosCounter = 0;
-                 foreach (string i in keyS)
-                 {
-                     string buff = i;
-                     buff = buff.Substring(0, 2);
-                     if (line == buff)
-                     {
-                         PosCounter++;
-                     }
-                 }
-                 newSongPos = string.Concat(line, newSongPos, PosCounter + 1);
-                 Console.WriteLine("Название аудиозаписи");
-                 line = Console.ReadLine();
-                 songs.Add(newSongPos, line);
-                 Console.WriteLine("Аудиозапись добавлена успешно, ее название " + line + ", ее позиция [" + newSongPos + "]");
-             }
-             else Console.WriteLine("Нет такого диска");
-             PrintAllCatalog(songs);*/
 
             PrintAllCatalog(disc);
             Console.WriteLine("Введите порядковый номер диска, который надо удалить");
@@ -143,7 +104,6 @@ namespace _6._4
 
 
 
-            ///////////////////3
             Console.WriteLine("Информация о дисках");
             PrintAllCatalog(disc);
             Console.WriteLine("Количество дисков:" + disc.Count);
@@ -168,7 +128,6 @@ namespace _6._4
                 }
             }
             else Console.WriteLine("Not enough info about disc:" + line);
-            ///////////////
 
             Console.ReadKey();
         }
