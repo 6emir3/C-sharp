@@ -1,0 +1,12 @@
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\job1\obj\Debug\job1.csproj.AssemblyReference.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\job1\obj\Debug\job1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\job1\obj\Debug\job1.Form1.resources
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\job1\obj\Debug\job1.Properties.Resources.resources
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\job1\obj\Debug\job1.csproj.GenerateResource.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\job1\obj\Debug\job1.csproj.CoreCompileInputs.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\job1\bin\Debug\job1.exe.config
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\job1\bin\Debug\job1.exe
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\job1\bin\Debug\job1.pdb
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\job1\obj\Debug\job1.ChildForm.resources
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\job1\obj\Debug\job1.exe
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\job1\obj\Debug\job1.pdb

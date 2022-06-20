@@ -1,0 +1,17 @@
+﻿<Window x:Class="задание_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:задание_4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Button1" Content="НАЖАТИЕ = УДАЛЕНИЕ" HorizontalAlignment="Center" Margin="0,179,0,0" VerticalAlignment="Top" Height="38" Width="146" Background="#FFCA5353" MouseEnter="Button_MouseEnter">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+
+    </Grid>
+</Window>

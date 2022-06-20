@@ -1,0 +1,12 @@
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\WinTimer2\bin\Debug\WinTimer2.exe.config
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\WinTimer2\bin\Debug\WinTimer2.exe
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\WinTimer2\bin\Debug\WinTimer2.pdb
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\WinTimer2\obj\Debug\WinTimer2.csproj.AssemblyReference.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\WinTimer2\obj\Debug\WinTimer2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\WinTimer2\obj\Debug\WinTimer2.Properties.Resources.resources
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\WinTimer2\obj\Debug\WinTimer2.UserControlTimer2.resources
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\WinTimer2\obj\Debug\WinTimer2.csproj.GenerateResource.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\WinTimer2\obj\Debug\WinTimer2.csproj.CoreCompileInputs.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\WinTimer2\obj\Debug\WinTimer2.exe
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\WinTimer2\obj\Debug\WinTimer2.pdb
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№24\practice24\WinTimer2\obj\Debug\WinTimer2.Form1.resources

@@ -1,0 +1,10 @@
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task2\bin\Debug\task2.exe.config
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task2\bin\Debug\task2.exe
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task2\bin\Debug\task2.pdb
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task2\obj\Debug\task2.Form1.resources
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task2\obj\Debug\task2.Properties.Resources.resources
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task2\obj\Debug\task2.csproj.GenerateResource.cache
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task2\obj\Debug\task2.exe
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task2\obj\Debug\task2.pdb
