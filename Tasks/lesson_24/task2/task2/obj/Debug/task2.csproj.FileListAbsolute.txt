@@ -1,0 +1,11 @@
+C:\Users\vlads\Desktop\practice\lesson_24\task2\task2\bin\Debug\z2.exe.config
+C:\Users\vlads\Desktop\practice\lesson_24\task2\task2\bin\Debug\z2.exe
+C:\Users\vlads\Desktop\practice\lesson_24\task2\task2\bin\Debug\z2.pdb
+C:\Users\vlads\Desktop\practice\lesson_24\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\Users\vlads\Desktop\practice\lesson_24\task2\task2\obj\Debug\task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlads\Desktop\practice\lesson_24\task2\task2\obj\Debug\z2.Form1.resources
+C:\Users\vlads\Desktop\practice\lesson_24\task2\task2\obj\Debug\z2.Properties.Resources.resources
+C:\Users\vlads\Desktop\practice\lesson_24\task2\task2\obj\Debug\task2.csproj.GenerateResource.cache
+C:\Users\vlads\Desktop\practice\lesson_24\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\vlads\Desktop\practice\lesson_24\task2\task2\obj\Debug\z2.exe
+C:\Users\vlads\Desktop\practice\lesson_24\task2\task2\obj\Debug\z2.pdb

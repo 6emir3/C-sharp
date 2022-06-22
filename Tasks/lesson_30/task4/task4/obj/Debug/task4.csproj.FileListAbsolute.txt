@@ -1,0 +1,11 @@
+C:\Users\vlads\Desktop\practice\lesson_30\task4\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\Users\vlads\Desktop\practice\lesson_30\task4\task4\obj\Debug\task4.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlads\Desktop\practice\lesson_30\task4\task4\obj\Debug\task4.Form1.resources
+C:\Users\vlads\Desktop\practice\lesson_30\task4\task4\obj\Debug\task4.Properties.Resources.resources
+C:\Users\vlads\Desktop\practice\lesson_30\task4\task4\obj\Debug\task4.csproj.GenerateResource.cache
+C:\Users\vlads\Desktop\practice\lesson_30\task4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\vlads\Desktop\practice\lesson_30\task4\task4\bin\Debug\task4.exe.config
+C:\Users\vlads\Desktop\practice\lesson_30\task4\task4\bin\Debug\task4.exe
+C:\Users\vlads\Desktop\practice\lesson_30\task4\task4\bin\Debug\task4.pdb
+C:\Users\vlads\Desktop\practice\lesson_30\task4\task4\obj\Debug\task4.exe
+C:\Users\vlads\Desktop\practice\lesson_30\task4\task4\obj\Debug\task4.pdb

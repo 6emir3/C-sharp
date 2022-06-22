@@ -1,0 +1,10 @@
+C:\Users\vlads\Desktop\practice\lesson_30\task6\task6\bin\Debug\task6.exe.config
+C:\Users\vlads\Desktop\practice\lesson_30\task6\task6\bin\Debug\task6.exe
+C:\Users\vlads\Desktop\practice\lesson_30\task6\task6\bin\Debug\task6.pdb
+C:\Users\vlads\Desktop\practice\lesson_30\task6\task6\obj\Debug\task6.csproj.AssemblyReference.cache
+C:\Users\vlads\Desktop\practice\lesson_30\task6\task6\obj\Debug\task6.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlads\Desktop\practice\lesson_30\task6\task6\obj\Debug\task6.Properties.Resources.resources
+C:\Users\vlads\Desktop\practice\lesson_30\task6\task6\obj\Debug\task6.csproj.GenerateResource.cache
+C:\Users\vlads\Desktop\practice\lesson_30\task6\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache
+C:\Users\vlads\Desktop\practice\lesson_30\task6\task6\obj\Debug\task6.exe
+C:\Users\vlads\Desktop\practice\lesson_30\task6\task6\obj\Debug\task6.pdb

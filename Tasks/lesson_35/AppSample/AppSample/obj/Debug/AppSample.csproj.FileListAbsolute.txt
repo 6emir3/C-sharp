@@ -1,0 +1,58 @@
+C:\Users\ur4ib\Source\Repos\AppSample\AppSample\bin\Debug\AppSample.exe.config
+C:\Users\ur4ib\Source\Repos\AppSample\AppSample\bin\Debug\AppSample.exe
+C:\Users\ur4ib\Source\Repos\AppSample\AppSample\bin\Debug\AppSample.pdb
+C:\Users\ur4ib\Source\Repos\AppSample\AppSample\obj\Debug\MainWindow.g.cs
+C:\Users\ur4ib\Source\Repos\AppSample\AppSample\obj\Debug\App.g.cs
+C:\Users\ur4ib\Source\Repos\AppSample\AppSample\obj\Debug\AppSample_MarkupCompile.cache
+C:\Users\ur4ib\Source\Repos\AppSample\AppSample\obj\Debug\AppSample_MarkupCompile.lref
+C:\Users\ur4ib\Source\Repos\AppSample\AppSample\obj\Debug\MainWindow.baml
+C:\Users\ur4ib\Source\Repos\AppSample\AppSample\obj\Debug\AppSample.g.resources
+C:\Users\ur4ib\Source\Repos\AppSample\AppSample\obj\Debug\AppSample.Properties.Resources.resources
+C:\Users\ur4ib\Source\Repos\AppSample\AppSample\obj\Debug\AppSample.csproj.GenerateResource.cache
+C:\Users\ur4ib\Source\Repos\AppSample\AppSample\obj\Debug\AppSample.csproj.CoreCompileInputs.cache
+C:\Users\ur4ib\Source\Repos\AppSample\AppSample\obj\Debug\AppSample.exe
+C:\Users\ur4ib\Source\Repos\AppSample\AppSample\obj\Debug\AppSample.pdb
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\bin\Debug\AppSample.exe.config
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\bin\Debug\AppSample.exe
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\bin\Debug\AppSample.pdb
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\obj\Debug\MainWindow.g.cs
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\obj\Debug\App.g.cs
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\obj\Debug\AppSample_MarkupCompile.cache
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\obj\Debug\AppSample_MarkupCompile.lref
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\obj\Debug\MainWindow.baml
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\obj\Debug\AppSample.g.resources
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\obj\Debug\AppSample.Properties.Resources.resources
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\obj\Debug\AppSample.csproj.GenerateResource.cache
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\obj\Debug\AppSample.csproj.CoreCompileInputs.cache
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\obj\Debug\AppSample.exe
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\obj\Debug\AppSample.pdb
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\AppSample\bin\Debug\AppSample.exe.config
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\AppSample\bin\Debug\AppSample.exe
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\AppSample\bin\Debug\AppSample.pdb
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\AppSample\obj\Debug\MainWindow.g.cs
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\AppSample\obj\Debug\App.g.cs
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\AppSample\obj\Debug\AppSample_MarkupCompile.cache
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\AppSample\obj\Debug\AppSample_MarkupCompile.lref
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\AppSample\obj\Debug\MainWindow.baml
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\AppSample\obj\Debug\AppSample.g.resources
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\AppSample\obj\Debug\AppSample.Properties.Resources.resources
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\AppSample\obj\Debug\AppSample.csproj.GenerateResource.cache
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\AppSample\obj\Debug\AppSample.csproj.CoreCompileInputs.cache
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\AppSample\obj\Debug\AppSample.exe
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\AppSample\obj\Debug\AppSample.pdb
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\bin\Debug\AppSample.exe.config
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\bin\Debug\AppSample.exe
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\bin\Debug\AppSample.pdb
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\obj\Debug\AppSample.csproj.AssemblyReference.cache
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\obj\Debug\AppSample.csproj.SuggestedBindingRedirects.cache
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\obj\Debug\MainWindow.g.cs
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\obj\Debug\App.g.cs
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\obj\Debug\AppSample_MarkupCompile.cache
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\obj\Debug\AppSample_MarkupCompile.lref
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\obj\Debug\MainWindow.baml
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\obj\Debug\AppSample.g.resources
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\obj\Debug\AppSample.Properties.Resources.resources
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\obj\Debug\AppSample.csproj.GenerateResource.cache
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\obj\Debug\AppSample.csproj.CoreCompileInputs.cache
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\obj\Debug\AppSample.exe
+D:\Даник\2 курс\Практика (C#)\Practice\Practice 34\AppSample\AppSample\obj\Debug\AppSample.pdb
