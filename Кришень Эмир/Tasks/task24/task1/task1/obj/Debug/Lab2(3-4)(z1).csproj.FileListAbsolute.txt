@@ -1,0 +1,2 @@
+C:\Users\vlads\Desktop\day25\Task\Lab2(3-4)(z1)\obj\Debug\Lab2(3-4)(z1).csproj.AssemblyReference.cache
+C:\Users\vlads\Desktop\day25\Task\Lab2(3-4)(z1)\obj\Debug\Lab2(3-4)(z1).csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,10 @@
+C:\Users\ur4ib\Source\Repos\AppSample\InstallAppSaple\bin\Debug\InstallAppSaple.msi
+C:\Users\ur4ib\Source\Repos\AppSample\InstallAppSaple\bin\Debug\InstallAppSaple.wixpdb
+C:\Users\ur4ib\Downloads\AppSample\AppSample\InstallAppSaple\bin\Debug\InstallAppSaple.msi
+C:\Users\ur4ib\Downloads\AppSample\AppSample\InstallAppSaple\bin\Debug\InstallAppSaple.wixpdb
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\InstallAppSaple\bin\Debug\InstallAppSaple.msi
+C:\Users\ur4ib\Downloads\AppSample\AppSample\AppSample\InstallAppSaple\bin\Debug\InstallAppSaple.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\InstallAppSaple.wixproj.BindContentsFileListnull.txt
+obj\Debug\InstallAppSaple.wixproj.BindOutputsFileListnull.txt
+obj\Debug\InstallAppSaple.wixproj.BindBuiltOutputsFileListnull.txt

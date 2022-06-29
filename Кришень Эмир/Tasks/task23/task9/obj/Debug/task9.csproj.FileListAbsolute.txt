@@ -1,0 +1,9 @@
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task9\bin\Debug\task9.exe.config
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task9\bin\Debug\task9.exe
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task9\bin\Debug\task9.pdb
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task9\obj\Debug\task9.Form1.resources
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task9\obj\Debug\task9.Properties.Resources.resources
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task9\obj\Debug\task9.csproj.GenerateResource.cache
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task9\obj\Debug\task9.csproj.CoreCompileInputs.cache
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task9\obj\Debug\task9.exe
+D:\колледж\КПиЯП-практика\-----\Задания\task23\task9\obj\Debug\task9.pdb

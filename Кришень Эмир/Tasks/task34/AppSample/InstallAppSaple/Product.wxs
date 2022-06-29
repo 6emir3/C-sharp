@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+
+  <?define TargetDir=$(var.AppSample.TargetDir)?>
+  <?define ProductName=$(var.AppSample.ProjectName)?>
+  <?define TargetFileName=$(var.AppSample.TargetFileName)?>
+  <?define description="Демонстрация примера WiX"?>
+
+  <Product Id="{D5153F56-AD59-4A7F-BFC7-3DE60BAE1F63}" Name="$(var.ProductName)" Language="1058" Codepage="1251" Version="1.0.0"
+          Manufacturer="Sample Manufacturer" UpgradeCode="e5da6b60-8cf0-4850-b016-99478256a160" >
+
+    <Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine"  Description="$(var.description)"  SummaryCodepage="1251"
+                Comments="Samokhin_SoftWare 2019"  />
+
+    <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+    <MediaTemplate  EmbedCab="yes"/>
+
+    <Feature Id="ProductFeature" Title="InstallAppSaple" Level="1">
+      <ComponentRef Id="ProductComponents" />
+      <ComponentRef Id="ShortcutMenu"/>
+      <ComponentRef Id="ShortcutDesktop"/>
+    </Feature>
+
+    <Icon Id="del" SourceFile="del.ico"/>
+
+    <Property Id="ARPPRODUCTICON" Value="del" />
+
+    <CustomAction Id="LaunchInstalledExe" Directory="INSTALLFOLDER"  Execute="immediate" Impersonate="yes"
+                   Return="asyncNoWait" ExeCommand="[#$(var.TargetFileName)] -install"  />
+    <InstallExecuteSequence>
+      <Custom Action='LaunchInstalledExe' After='InstallFinalize'/>
+    </InstallExecuteSequence>
+
+  </Product>
+
+  <Fragment>
+    <Directory Id="TARGETDIR" Name="SourceDir">
+
+      <Directory Id="ProgramFilesFolder">
+        <Directory Id="INSTALLFOLDER" Name="$(var.ProductName)" />
+      </Directory>
+
+      <Directory Id="DesktopFolder" Name="decktop"/>
+
+      <Directory Id="ProgramMenuFolder" Name="MenuFolder" >
+        <Directory Id="ApplicationProgramsFolder" Name="$(var.ProductName)" />
+
+      </Directory>
+    </Directory>
+  </Fragment>
+
+
+
+  <Fragment>
+
+    <Component  Id="ProductComponents" Guid="cc744989-749f-469e-897d-6ef75c7563ce"   Directory="INSTALLFOLDER" >
+      <File  Name="$(var.TargetFileName).config" Source="$(var.TargetDir)" />
+      <File Name="$(var.TargetFileName)" Source="$(var.TargetDir)"/>
+    </Component>
+  </Fragment>
+
+
+  <Fragment>
+    <Component Id="ShortcutMenu" Guid="{58066934-AC66-43B4-A674-85A8970DC3C5}"  Directory="ApplicationProgramsFolder">
+      <Shortcut Id="StartMenu" Name="$(var.ProductName)"  Description="$(var.description)" Target ="[INSTALLFOLDER]$(var.TargetFileName)" />
+      <RemoveFolder Id="RemoveShortcut"  On="uninstall"/>
+      <Registry Root="HKCU" Key="SoftWare\[Manufacturer]\[ProductName]" Name="installed" Type="integer" Value="1" KeyPath="yes"/>
+
+      <Shortcut Id="UninstallProduct" Name="Удалить $(var.ProductName)" Target="[SystemFolder]msiexec.exe" Arguments="/uninstall [ProductCode]"  Icon="del"/>
+    </Component>
+  </Fragment>
+
+
+  <Fragment>
+    <Component Id="ShortcutDesktop" Guid="{5B45E98F-6544-4A68-93F8-1D6FF0BD4E50}" Directory="DesktopFolder" >
+      <Shortcut Id="ShortcutDesktop" Name="$(var.ProductName)"   Description="$(var.description)" Target ="[INSTALLFOLDER]$(var.TargetFileName)" />
+      <RemoveFolder Id="RemoveDesktopFolder" Directory="DesktopFolder" On="uninstall" />
+      <Registry Root="HKCU" Key="SoftWare\[Manufacturer]\[ProductName]" Name="installed" Type="integer" Value="1" KeyPath="yes"/>
+    </Component>
+  </Fragment>
+
+</Wix>

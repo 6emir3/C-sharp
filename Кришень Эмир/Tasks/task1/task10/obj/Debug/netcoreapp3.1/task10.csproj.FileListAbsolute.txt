@@ -1,0 +1,13 @@
+D:\колледж\КПиЯП-практика\app2\task10\bin\Debug\netcoreapp3.1\task10.exe
+D:\колледж\КПиЯП-практика\app2\task10\bin\Debug\netcoreapp3.1\task10.deps.json
+D:\колледж\КПиЯП-практика\app2\task10\bin\Debug\netcoreapp3.1\task10.runtimeconfig.json
+D:\колледж\КПиЯП-практика\app2\task10\bin\Debug\netcoreapp3.1\task10.runtimeconfig.dev.json
+D:\колледж\КПиЯП-практика\app2\task10\bin\Debug\netcoreapp3.1\task10.dll
+D:\колледж\КПиЯП-практика\app2\task10\bin\Debug\netcoreapp3.1\task10.pdb
+D:\колледж\КПиЯП-практика\app2\task10\obj\Debug\netcoreapp3.1\task10.GeneratedMSBuildEditorConfig.editorconfig
+D:\колледж\КПиЯП-практика\app2\task10\obj\Debug\netcoreapp3.1\task10.AssemblyInfoInputs.cache
+D:\колледж\КПиЯП-практика\app2\task10\obj\Debug\netcoreapp3.1\task10.AssemblyInfo.cs
+D:\колледж\КПиЯП-практика\app2\task10\obj\Debug\netcoreapp3.1\task10.csproj.CoreCompileInputs.cache
+D:\колледж\КПиЯП-практика\app2\task10\obj\Debug\netcoreapp3.1\task10.dll
+D:\колледж\КПиЯП-практика\app2\task10\obj\Debug\netcoreapp3.1\task10.pdb
+D:\колледж\КПиЯП-практика\app2\task10\obj\Debug\netcoreapp3.1\task10.genruntimeconfig.cache
