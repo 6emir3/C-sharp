@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ed9FdidCdjFUyigxTTNFfYHeIwTAZh6QxWnMHfs+4YdNh8st4VobMU3gUK5NmPmh6aEfstz6dVlWnFqyOrntcg==",
+  "dgSpecHash": "cx6qr9IjM7BlZtXWxj6cc3FxptFp6Dbyr8obyEQXdgMvHF63dFk1uv4F3sD6y21HllcM0kVhRk33kPFNlgTKmw==",
   "success": true,
-  "projectFilePath": "D:\\колледж\\КПиЯП-практика\\Задания\\task17\\Phone\\Phone.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\колледж\\КПиЯП-практика\\-----\\Tasks\\task17\\Phone\\Phone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\37533\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\37533\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\37533\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

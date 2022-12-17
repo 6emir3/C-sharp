@@ -1,0 +1,10 @@
+D:\колледж\КПиЯП-практика\Задания\task17\Figure\bin\Debug\netcoreapp3.1\Figure.deps.json
+D:\колледж\КПиЯП-практика\Задания\task17\Figure\bin\Debug\netcoreapp3.1\Figure.dll
+D:\колледж\КПиЯП-практика\Задания\task17\Figure\bin\Debug\netcoreapp3.1\Figure.pdb
+D:\колледж\КПиЯП-практика\Задания\task17\Figure\obj\Debug\netcoreapp3.1\Figure.csproj.AssemblyReference.cache
+D:\колледж\КПиЯП-практика\Задания\task17\Figure\obj\Debug\netcoreapp3.1\Figure.GeneratedMSBuildEditorConfig.editorconfig
+D:\колледж\КПиЯП-практика\Задания\task17\Figure\obj\Debug\netcoreapp3.1\Figure.AssemblyInfoInputs.cache
+D:\колледж\КПиЯП-практика\Задания\task17\Figure\obj\Debug\netcoreapp3.1\Figure.AssemblyInfo.cs
+D:\колледж\КПиЯП-практика\Задания\task17\Figure\obj\Debug\netcoreapp3.1\Figure.csproj.CoreCompileInputs.cache
+D:\колледж\КПиЯП-практика\Задания\task17\Figure\obj\Debug\netcoreapp3.1\Figure.dll
+D:\колледж\КПиЯП-практика\Задания\task17\Figure\obj\Debug\netcoreapp3.1\Figure.pdb

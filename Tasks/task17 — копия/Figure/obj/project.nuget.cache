@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RA7pbUCMHVH3ygAEM+QnLhmar6jRLIdViUYw2usoXJf3v4ZOs/gCgfoUdsXRJBu8ou0l4yruhhs/gig1lBouig==",
+  "success": true,
+  "projectFilePath": "D:\\колледж\\КПиЯП-практика\\-----\\Tasks\\task17 — копия\\Figure\\Figure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\37533\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\37533\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\37533\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

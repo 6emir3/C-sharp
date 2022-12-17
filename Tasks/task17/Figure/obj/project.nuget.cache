@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ohEDYeIBU5fEDoi5R4g0Nk95/38F96YUEqDm73kWquVMk6Qc/DBfcYVNbf0Gjt4mYpXA6kvi6YsWN8nfmEy7IQ==",
+  "dgSpecHash": "ivSO8rVdLKsbCwUqbOIBB54cTJ9jT0+pIkIWYJRkCzDnRLAmVBSFmyXRjwIQoajiZoDkmdWalh6PtKRp+5OamQ==",
   "success": true,
-  "projectFilePath": "D:\\колледж\\КПиЯП-практика\\Задания\\task17\\Figure\\Figure.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\колледж\\КПиЯП-практика\\-----\\Tasks\\task17\\Figure\\Figure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\37533\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\37533\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\37533\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

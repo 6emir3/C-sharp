@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "BPQR3fmDA6DRNByQdX7QGmkOnG+sVRmQ+Gk6GqwB59wtDYZjA4Zjb277MCaZwquQNos9TWGlpTCPyIBEs66uog==",
+  "dgSpecHash": "rRxNIQZMUH3wIDHwTUpUfSBUnvt/Qj9QnAgLEDoXNVt1/1Z72kpRb3bXlChZsTO6ZXFLwdrM0rtkHV3FJfyzQw==",
   "success": true,
-  "projectFilePath": "D:\\колледж\\КПиЯП-практика\\-----\\Задания\\task18\\task3\\task3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\колледж\\КПиЯП-практика\\-----\\Tasks\\task18\\task3\\task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\37533\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\37533\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\37533\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\37533\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
